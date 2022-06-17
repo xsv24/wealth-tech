@@ -1,3 +1,12 @@
+# 🪜 Perquisites
+[Install](https://dotnet.microsoft.com/en-us/download) dotnet 6
+
+# 🏃 Run
+
+```bash
+dotnet run
+```
+
 ## Can you briefly describe the different perspectives between OOP and FP?
 
 ### Object oriented programming: 
